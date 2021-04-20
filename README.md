@@ -1,8 +1,8 @@
 Discord Encouraging Kanye West Bot
 ---
-A simple text-bot returning encouraging quotes depening on the user's message content.
-Written in NodeJS.
-Hosted for free using Repl.it
+A simple text-bot returning encouraging quotes depening on the user's message content.\
+Written in NodeJS.\
+Hosted for free using Repl.it\
 The bot is continuosly ran using UptimeRobot
 
 ## Demo:
@@ -31,13 +31,13 @@ $del [index of encouraging phrase]
 Kanye
 
 ### Inspirational quotes
-need inspiration
+need inspiration\
 not inspiring
 
 ### Encouraging phrases
-sad
-depressed
-frustrated
-stressed
-unhappy
+sad\
+depressed\
+frustrated\
+stressed\
+unhappy\
 angry
