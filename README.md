@@ -3,29 +3,28 @@ Discord Encouraging Kanye West Bot
 A simple text-bot returning encouraging quotes depening on the user's message content.
 Written in NodeJS.
 
-##Demo:
+## Demo:
 ---
 
-
-##API:s used
+## API:s used
 ---
 
 1. Discord.js
 2. Kanye.rest
 3. zenquotes.io
 
-##Commands
+## Commands
 
 ### List encouraging phrases
 $list
 
-###Add encouraging phrase
+### Add encouraging phrase
 $new New encouraging phrase!
 
-###Remove encouraging phrase
+### Remove encouraging phrase
 $del [index of encouraging phrase]
 
-##Trigger words:
+## Trigger words:
 
 ### Kanye quotes
 Kanye
