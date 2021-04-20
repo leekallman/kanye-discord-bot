@@ -4,10 +4,9 @@ A simple text-bot returning encouraging quotes depening on the user's message co
 Written in NodeJS.
 
 ## Demo:
----
+
 
 ## API:s used
----
 
 1. Discord.js
 2. Kanye.rest
