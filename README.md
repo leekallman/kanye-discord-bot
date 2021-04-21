@@ -28,11 +28,12 @@ $del [index of encouraging phrase]
 ## Trigger words:
 
 ### Kanye quotes
-Kanye
+- Kanye\
+- kanye
 
 ### Inspirational quotes
-need inspiration\
-not inspiring
+- inspiration\
+- inspiring
 
 ### Encouraging phrases
 sad\
