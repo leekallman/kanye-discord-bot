@@ -1,12 +1,9 @@
 Discord Encouraging Kanye West Bot
 ---
-A simple text-bot returning encouraging quotes depening on the user's message content.\
+A simple text-bot returning encouraging quotes depending on the user's message content.\
 Written in NodeJS.\
 Hosted for free using Repl.it\
-The bot is continuosly ran using UptimeRobot
-
-## Demo:
-
+The bot is continously ran using UptimeRobot
 
 ## API:s used
 
